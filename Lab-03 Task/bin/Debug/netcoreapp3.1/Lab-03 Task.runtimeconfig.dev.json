@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\IMDAD\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\IMDAD\\.nuget\\packages"
+    ]
+  }
+}

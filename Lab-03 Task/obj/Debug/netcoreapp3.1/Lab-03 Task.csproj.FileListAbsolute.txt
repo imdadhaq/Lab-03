@@ -1,0 +1,13 @@
+C:\Users\IMDAD\Desktop\New folder\First programe\Lab-03 Task\Lab-03 Task\obj\Debug\netcoreapp3.1\Lab-03 Task.csprojAssemblyReference.cache
+C:\Users\IMDAD\Desktop\New folder\First programe\Lab-03 Task\Lab-03 Task\obj\Debug\netcoreapp3.1\Lab-03 Task.AssemblyInfoInputs.cache
+C:\Users\IMDAD\Desktop\New folder\First programe\Lab-03 Task\Lab-03 Task\obj\Debug\netcoreapp3.1\Lab-03 Task.AssemblyInfo.cs
+C:\Users\IMDAD\Desktop\New folder\First programe\Lab-03 Task\Lab-03 Task\obj\Debug\netcoreapp3.1\Lab-03 Task.csproj.CoreCompileInputs.cache
+C:\Users\IMDAD\Desktop\New folder\First programe\Lab-03 Task\Lab-03 Task\bin\Debug\netcoreapp3.1\Lab-03 Task.exe
+C:\Users\IMDAD\Desktop\New folder\First programe\Lab-03 Task\Lab-03 Task\bin\Debug\netcoreapp3.1\Lab-03 Task.deps.json
+C:\Users\IMDAD\Desktop\New folder\First programe\Lab-03 Task\Lab-03 Task\bin\Debug\netcoreapp3.1\Lab-03 Task.runtimeconfig.json
+C:\Users\IMDAD\Desktop\New folder\First programe\Lab-03 Task\Lab-03 Task\bin\Debug\netcoreapp3.1\Lab-03 Task.runtimeconfig.dev.json
+C:\Users\IMDAD\Desktop\New folder\First programe\Lab-03 Task\Lab-03 Task\bin\Debug\netcoreapp3.1\Lab-03 Task.dll
+C:\Users\IMDAD\Desktop\New folder\First programe\Lab-03 Task\Lab-03 Task\bin\Debug\netcoreapp3.1\Lab-03 Task.pdb
+C:\Users\IMDAD\Desktop\New folder\First programe\Lab-03 Task\Lab-03 Task\obj\Debug\netcoreapp3.1\Lab-03 Task.dll
+C:\Users\IMDAD\Desktop\New folder\First programe\Lab-03 Task\Lab-03 Task\obj\Debug\netcoreapp3.1\Lab-03 Task.pdb
+C:\Users\IMDAD\Desktop\New folder\First programe\Lab-03 Task\Lab-03 Task\obj\Debug\netcoreapp3.1\Lab-03 Task.genruntimeconfig.cache
