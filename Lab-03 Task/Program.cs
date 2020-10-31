@@ -44,7 +44,7 @@ Console.WriteLine(cgpa);
         {
             Console.WriteLine(x);
             Console.WriteLine(y);
-            Console.WriteLine(y);
+            Console.WriteLine(z);
         }
 
        public void Testtringle()
